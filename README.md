@@ -1,1 +1,1 @@
-<p>Para ingresar al CV <a href="https://github.com/SebastianCerpa/app-mensajeria.git">Click Aqui</a></p>
+<p>Para ingresar a la app <a href="https://github.com/SebastianCerpa/app-mensajeria">Click Aqui</a></p>
